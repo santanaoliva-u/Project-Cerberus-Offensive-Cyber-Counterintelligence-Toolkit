@@ -1,5 +1,5 @@
 
-# 🐍 Proyecto Cerberus — Vigilancia Silenciosa. Contrainteligencia Activa.
+#  Proyecto Cerberus — Vigilancia Silenciosa. Contrainteligencia Activa.
 
 version -  0.1
 ![Portada Cerberus](img/portada.jpg)
