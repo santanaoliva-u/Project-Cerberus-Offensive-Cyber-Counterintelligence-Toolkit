@@ -2,6 +2,7 @@
 # 🐍 Proyecto Cerberus — Vigilancia Silenciosa. Contrainteligencia Activa.
 
 version -  0.1
+![Portada Cerberus](img/portada.jpg)
 
 > *“Vinieron a mirar.  
 > Ahora sabemos quiénes son.”*
